@@ -1,0 +1,1 @@
+export * from './auth.dto'; // Barrel export pattern

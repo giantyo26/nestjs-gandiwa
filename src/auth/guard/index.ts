@@ -1,0 +1,1 @@
+export * from './jwt.guard' // Barrel export pattern
